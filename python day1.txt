@@ -1,0 +1,12 @@
+1.What is python?What are the ways to install python in pc?
+->Python is an interpreted,object-oriented,high-level programming language with dynamic semantics introduced by Guido van Rossum in 1991.
+*Search for python id in official website
+*Search required version(3.7 currently)
+*Click on windows executable installer link and then provide with necessary settings
+
+2.What is code environment?What are its type?
+->A workspace where you can  write,compile and execute your code.
+*PyCham
+*Spyder
+*PyDev
+*Idle
